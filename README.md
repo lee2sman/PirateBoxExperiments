@@ -16,4 +16,11 @@ To turn on piratebox
 To turn off piratebox
 ```sudo /etc/init.d/piratebox stop```
 
+# Keep Chip from going to sleep
+
+```
+sudo chmod +x nosleep.sh
+./nosleep.sh
+```
+
 
