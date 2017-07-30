@@ -2,7 +2,7 @@
 Experiments with Pirate Box on CHIP OS
 
 
-Hacky experiments to turn ChipOS into a minimal piratebox server with alternative frontend to serve artwork and files.
+Hacky experiments (in-progress!) to turn ChipOS into a minimal piratebox server with alternative frontend to serve artwork and files, collaborative offline library, etc.
 
 # Install
 Installer was coded based on howto [here](https://piratebox.cc/other:chip)
