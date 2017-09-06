@@ -3,7 +3,7 @@ Experiments with Pirate Box on CHIP OS and Raspberry Pi
 
 Hacky experiments (in-progress!) to turn ChipOS and Raspberry Pi's into minimal piratebox servers with alternative frontend to serve artwork and files, collaborative offline library, etc.
 
-This isn't a working distro or package so much as starter scripts, documentation and expexperiments that can be used in projects.
+This isn't a working distro or package so much as starter scripts, documentation and experiments that can be used in projects.
 
 # CHIP
 
